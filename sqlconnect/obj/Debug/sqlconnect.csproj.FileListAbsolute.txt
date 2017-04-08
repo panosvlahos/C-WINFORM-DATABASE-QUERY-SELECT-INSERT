@@ -1,0 +1,9 @@
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\bin\Debug\sqlconnect.exe.config
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\obj\Debug\sqlconnect.csprojResolveAssemblyReference.cache
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\obj\Debug\sqlconnect.Form1.resources
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\obj\Debug\sqlconnect.Properties.Resources.resources
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\obj\Debug\sqlconnect.csproj.GenerateResource.Cache
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\bin\Debug\sqlconnect.exe
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\bin\Debug\sqlconnect.pdb
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\obj\Debug\sqlconnect.exe
+c:\users\panos\documents\visual studio 2015\Projects\sqlconnect\sqlconnect\obj\Debug\sqlconnect.pdb
